@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Roshni Mishra</h1>
-<h3 align="center">A Passionate Web Developer and Enthusiastic Coder</h3>
 
 <img align="right" width="400" alt="coding" src="https://user-images.githubusercontent.com/68391974/126289518-a8422fd8-b728-4425-a231-b918c37aad8e.gif"/>
 
