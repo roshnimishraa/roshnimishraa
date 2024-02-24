@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roshni Mishra</h1>
 
-<img align="right" width="400" alt="coding" src="https://user-images.githubusercontent.com/68391974/126289518-a8422fd8-b728-4425-a231-b918c37aad8e.gif"/>
+<img align="right" width="400" alt="coding" src="C:\Users\hp\Downloads\gif.gif"/>
 
 
  📫 How to reach me **roshnimishra4@outlook.com**
