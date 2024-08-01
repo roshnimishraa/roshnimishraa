@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Roshni a CSE undergraduate</h1>
+<h1 align="center">Hi 👋, I'm Roshni a CSE Undergraduate!</h1>
 
 <img align="right" width="400" alt="coding" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"/>
 
