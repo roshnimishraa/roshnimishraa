@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I’m Roshni Mishra, a postgraduate student pursuing M.Tech in AI & DS 🎓</h2>
+<h2 align="center">Hi 👋, I’m Roshni Mishra a postgraduate student pursuing M.Tech in AI & DS 🎓</h2>
 
 <img align="right" width="400" alt="coding" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"/>
 
