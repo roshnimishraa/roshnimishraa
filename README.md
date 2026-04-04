@@ -51,8 +51,14 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roshnimishraa&show_icons=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=roshnimishraa&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshnimishraa&theme=tokyonight" height="180"/>
 </p>
+<!--
+<p align="center"> 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=roshnimishraa&layout=compact&langs_count=8" /> 
+</p>
+-->
 
 ### Let's Connect
 
@@ -60,5 +66,4 @@ Email: **mishraroshni2004@gmail.com**
 
 LinkedIn: **[linkedin.com/in/roshnimishraa](https://www.linkedin.com/in/roshnimishraa/)** <br/>
 LeetCode: **[leetcode.com/Roshni_Mishra](https://leetcode.com/Roshni_Mishra/)** <br/>
-GeeksforGeeks: **[geeksforgeeks.org/user/ramps](https://www.geeksforgeeks.org/profile/ramps?tab=activity)** <br/>
-Resume: **[Resume/Roshni_Mishra](https://drive.google.com/file/d/1znygWUMBxbr3qOVaT7xsxKy6rZGrowkF/view?usp=sharing)**
+GeeksforGeeks: **[geeksforgeeks.org/user/ramps](https://www.geeksforgeeks.org/profile/ramps?tab=activity)** 
